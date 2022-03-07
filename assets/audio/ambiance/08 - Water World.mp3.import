@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/08 - Water World.mp3-eab205d75210fe7eb09e65ac676dec67.mp3str"
+
+[deps]
+
+source_file="res://assets/audio/ambiance/08 - Water World.mp3"
+dest_files=[ "res://.import/08 - Water World.mp3-eab205d75210fe7eb09e65ac676dec67.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

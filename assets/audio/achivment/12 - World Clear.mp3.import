@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/12 - World Clear.mp3-99aaa537304294e08e2c7dc896845537.mp3str"
+
+[deps]
+
+source_file="res://assets/audio/achivment/12 - World Clear.mp3"
+dest_files=[ "res://.import/12 - World Clear.mp3-99aaa537304294e08e2c7dc896845537.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

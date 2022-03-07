@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/05 - Warp Pipe.mp3-9af4037c76cf5820d856e08c1433e871.mp3str"
+
+[deps]
+
+source_file="res://assets/audio/player/05 - Warp Pipe.mp3"
+dest_files=[ "res://.import/05 - Warp Pipe.mp3-9af4037c76cf5820d856e08c1433e871.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/stage clear.wav-bd5a19cc5d35564a2515800bb0766a7f.sample"
+
+[deps]
+
+source_file="res://assets/audio/achivment/stage clear.wav"
+dest_files=[ "res://.import/stage clear.wav-bd5a19cc5d35564a2515800bb0766a7f.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

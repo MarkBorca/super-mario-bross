@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/03 - Hurry - Super Mario Bros.mp3-5e5e0900c40279f913b1b3cb591f33e1.mp3str"
+
+[deps]
+
+source_file="res://assets/audio/ambiance/03 - Hurry - Super Mario Bros.mp3"
+dest_files=[ "res://.import/03 - Hurry - Super Mario Bros.mp3-5e5e0900c40279f913b1b3cb591f33e1.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

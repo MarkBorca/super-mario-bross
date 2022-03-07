@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/06 - Underground.mp3-c593595c803626d096d44ca85622b25c.mp3str"
+
+[deps]
+
+source_file="res://assets/audio/ambiance/06 - Underground.mp3"
+dest_files=[ "res://.import/06 - Underground.mp3-c593595c803626d096d44ca85622b25c.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

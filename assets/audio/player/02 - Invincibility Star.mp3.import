@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/02 - Invincibility Star.mp3-1ad2f6d1296c5a220e1ad01275fb91a2.mp3str"
+
+[deps]
+
+source_file="res://assets/audio/player/02 - Invincibility Star.mp3"
+dest_files=[ "res://.import/02 - Invincibility Star.mp3-1ad2f6d1296c5a220e1ad01275fb91a2.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

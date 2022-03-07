@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/super jump.wav-eaca0fea24a3bf817f49a4367d786ee9.sample"
+
+[deps]
+
+source_file="res://assets/audio/player/super jump.wav"
+dest_files=[ "res://.import/super jump.wav-eaca0fea24a3bf817f49a4367d786ee9.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

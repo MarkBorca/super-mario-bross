@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/breack block.wav-42107e3234be9657eba76f36b1742b40.sample"
+
+[deps]
+
+source_file="res://assets/audio/player/breack block.wav"
+dest_files=[ "res://.import/breack block.wav-42107e3234be9657eba76f36b1742b40.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
